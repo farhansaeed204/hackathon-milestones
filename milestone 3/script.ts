@@ -21,7 +21,7 @@ form.addEventListener("submit", (event: Event) => {
     <h3>Personal Information</h3>
     <p><b>Name:</b>${name}</p>
     <p><b>Email:</b>${email}</p>
-    <p><b>Phone:</b>${education}</p>
+    <p><b>Phone:</b>${phone}</p>
 
     <h3>Education</h3>
     <p>${education}</p>
